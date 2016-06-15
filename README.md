@@ -85,10 +85,10 @@ After applying the alias file from the example above:
 Just a couple of example pics based on one of my local repositories.
 
 ### Commit Charts
-![Alt text](https://bitbucket.org/mweston/mercurial-charts/raw/default/docs/commits.png)
+![Alt text](https://raw.githubusercontent.com/mattyboy/mercurial-charts/master/docs/commits.png)
 
 ### Diff Charts
-![Alt text](https://bitbucket.org/mweston/mercurial-charts/raw/default/docs/diffs.png)
+![Alt text](https://raw.githubusercontent.com/mattyboy/mercurial-charts/master/docs/diffs.png)
 
 ## What was it built with?
 
